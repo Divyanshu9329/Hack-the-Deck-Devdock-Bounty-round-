@@ -9,8 +9,6 @@ Submission of Hack the Deck Bonus Round.
 
 Brainwave (Hosted link - https://Divyanshu9329.github.io/Hack-the-Deck-Devdock-Bounty-round-)  - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
